@@ -44,3 +44,8 @@ This simply grabs a reference to a paragraph in the DOM and then prints out the 
 
 
 -------------------
+
+Prediction Result:
+
+<img width="1436" alt="image" src="https://user-images.githubusercontent.com/91119374/164331265-96d6eec1-70bc-4e0f-ab0f-c6a38b14cb17.png">
+
