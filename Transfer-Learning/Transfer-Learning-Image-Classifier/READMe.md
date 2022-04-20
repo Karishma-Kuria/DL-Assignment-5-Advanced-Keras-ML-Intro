@@ -26,3 +26,7 @@ Nothing to see here. Just styles to make the demo look prettier. You can use or 
 ← script.js
 This simply grabs a reference to a paragraph in the DOM and then prints out the TensorFlow.js version number to it once loaded.
 
+
+Model Prediction result:
+
+![image](https://user-images.githubusercontent.com/91119374/164303938-1ab839ae-9858-41c8-bdc7-83089dc3002f.png)
